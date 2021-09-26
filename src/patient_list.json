@@ -1,0 +1,42 @@
+[
+  {
+    "first_name": "Tamara",
+    "middle_name": "E",
+    "last_name": "Ellis",
+    "gender": "F",
+    "birth_name": "1967-06-19",
+    "ssn": 796130115
+  },
+  {
+    "first_name": "Janet",
+    "middle_name": "L",
+    "last_name": "Moore",
+    "gender": "F",
+    "birth_name": "1949-05-06",
+    "ssn": 796127677
+  },
+  {
+    "first_name": "Ralph",
+    "middle_name": "E",
+    "last_name": "Lee",
+    "gender": "M",
+    "birth_name": "1948-10-30",
+    "ssn": 796378782
+  },
+  {
+    "first_name": "Pauline",
+    "middle_name": "E",
+    "last_name": "Foster",
+    "gender": "F",
+    "birth_name": "1976-06-09",
+    "ssn": 796330625
+  },
+  {
+    "first_name": "Russell",
+    "middle_name": "James",
+    "last_name": "Freeman",
+    "gender": "M",
+    "birth_name": "1969-11-05",
+    "ssn": 796149080
+  }
+]

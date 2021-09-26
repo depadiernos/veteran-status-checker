@@ -8,13 +8,15 @@
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-number-format": "^4.7.3",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test:coverage": "npm test -- --coverage",
+    "test": "react-scripts test a",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
